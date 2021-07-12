@@ -1,0 +1,14 @@
+{
+  "name": "grid-componente",
+  "version": "1.0.0",
+  "description": "Uma grade de itens organizados com css-grid.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Ramon Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
